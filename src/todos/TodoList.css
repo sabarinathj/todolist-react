@@ -1,0 +1,8 @@
+.list-wrapper {
+    width: 500px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 2px;
+}

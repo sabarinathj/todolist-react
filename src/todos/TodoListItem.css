@@ -1,0 +1,23 @@
+.todo-item-container{
+    display: flex;
+}
+.todo-text {
+    margin-right: auto;
+}
+.buttons-container {
+    display: flex;
+    align-items: center;
+}
+.buttons-container div{
+    border: 1px solid #ccc;
+    border-radius: 1px;
+    font-size: 0.6em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-left: 4px;
+    padding-right: 4px;
+    margin: 0 4px;
+    height: 50%;
+    cursor: pointer;
+}

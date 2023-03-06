@@ -1,5 +1,10 @@
 .App {
-  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+.button:hover{
+  background-color: aliceblue;
 }
 
 .App-logo {
